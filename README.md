@@ -1,4 +1,4 @@
-# station_m-t-o_arduino
+# station_météo_arduino
 
 projet d'une mini station météo fait à part aeduino
 
