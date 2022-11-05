@@ -36,10 +36,10 @@ void loop() {
   lcd.clear();
   
 
-  lcd.setCursor(7,1);
+  lcd.setCursor(6,1);
   lcd.print(mesure);
   lcd.setCursor(2,0);
-  lcd.print("qualite  air");
+  lcd.print("qualite air");
   delay(3000);
   lcd.clear();
 
